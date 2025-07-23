@@ -25,12 +25,6 @@ Nosso foco é continuar aprimorando o projeto, aplicando melhorias na usabilidad
 
 ---
 
-## 📸 Prints do Jogo
-
-*Adicione aqui prints da tela do jogo se desejar.*
-
----
-
 ## 🛠️ Como executar o projeto
 
 1. Clone o repositório:
